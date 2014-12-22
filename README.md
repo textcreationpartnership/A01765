@@ -35,11 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The xliiij. sermon of M. Giulio of Milane, touchyng the Lordes supper[Giulio, da Milano].1559Approx.
+
 #####Body#####
-The xliiij. sermon of M. Giulio of Milane, touchyng the Lordes supper[Giulio, da Milano].1559Approx.
+
+1. The .xliiii. Sermon of Maſter Giulio of Milane, touchyng the Lordes Supper.
+
 #####Back#####
-The xliiij. sermon of M. Giulio of Milane, touchyng the Lordes supper[Giulio, da Milano].1559Approx.
+¶ Imprinted at London by Rycharde Iugge, Printer to the Queues Maieſtie.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
